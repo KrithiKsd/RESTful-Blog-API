@@ -1,6 +1,6 @@
 # spring-boot-blog
 
-This is a simple Spring Boot blog application that demonstrates basic CRUD (Create, Read, Update, Delete) operations for blog posts. It uses Spring Data JPA for data persistence and PostgreSQL as the database. Docker is used for containerization, and Postman is used for testing the API endpoints.
+This is a simple **Spring Boot** blog application that demonstrates basic CRUD (Create, Read, Update, Delete) operations for blog posts. It uses **Spring Data JPA** for data persistence and **PostgreSQL** as the database. **Docker** is used for containerization, and **Postman** is used for testing the API endpoints.
 
 API Endpoints
 
