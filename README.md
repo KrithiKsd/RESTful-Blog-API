@@ -4,7 +4,7 @@ This is a simple **RESTful Blog API** application that demonstrates basic CRUD (
 
 API Endpoints
 
-The following API endpoints are available:
+The following API endpoints are created:
 
     GET /api/v1/blogs/: Get a list of all blog posts.
     GET /api/v1/blogs/{id}: Get a blog post by ID.
